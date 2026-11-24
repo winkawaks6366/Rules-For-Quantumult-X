@@ -1,0 +1,13 @@
+# =================================
+# 车来了 App 专属广告拦截规则
+# Quantumult X
+# =================================
+
+host-keyword, pangolin-sdk-toutiao, reject
+host-suffix, gdt.qq.com, reject
+host-suffix, e.qq.com, reject
+host-suffix, webcast-open.douyin.com, reject
+host-suffix, tencent-ssp.66mobi.com, reject
+host-suffix, mssdk.volces.com, reject
+host-keyword, adx.yg84, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
